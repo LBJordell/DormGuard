@@ -1,4 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">DormGuard</string>
-    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button">Stream Video</string>
+    <string name="wowza">Brough to you by Wowza</string>
+    <item name="VideoView" type="id" />
 </resources>
+
